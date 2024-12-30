@@ -4,7 +4,9 @@
 
 EDA (Exploratory Data Analysis) and KMeans Clustering on online retail dataset.
 
-## data distribution
+- Dataset [click](https://doi.org/10.24432/C5CG6D)
+
+## Data distribution
 
 ![Distribution](visuals/data_distributions.png)
 
